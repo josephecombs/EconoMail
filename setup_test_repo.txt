@@ -1,0 +1,5 @@
+7.1 / Docker / Deploy to Prod
+
+high level steps:
+-create repo for MailKiq gem that "creates" test app
+
